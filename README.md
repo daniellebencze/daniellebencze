@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 daniellebencze/README.md 
 Hi, I'm Danielle!
 📍 WA
@@ -11,4 +8,3 @@ Former social worker turned techy🤖
 - 🔭 Actively participating in local, and virtual, events in AI, cybersecurity, and developer hackathons.
 
 - 📫 Look me up on LinkedIn at @linkedin.com/in/danielle-b-07344572
--->
