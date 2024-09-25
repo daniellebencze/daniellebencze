@@ -1,4 +1,3 @@
-daniellebencze/README.md 
 Hi, I'm Danielle!
 📍 WA
 
